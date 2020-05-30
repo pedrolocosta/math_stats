@@ -2,7 +2,6 @@
 # importando a biblioteca caso seja necessário
 import math
 
-
 # creating the class
 # criando a classe
 class exdist():
