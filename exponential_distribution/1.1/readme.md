@@ -19,3 +19,6 @@ Returns the mean
 ### var
 #### object_name.var
 Returns the variance
+
+## Updates
+Addition of Readme
