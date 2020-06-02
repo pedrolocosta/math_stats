@@ -4,7 +4,7 @@
 The exponential distribution is the usual probabilistic model for situations such as waiting time in a queue, survival time of a patient after starting treatment, the lifetime of electronic material.
 
 ## Object Instatiation
-nome_do_objeto = exdist(x = estimated_probability, a = parameter)
+objet_name = exdist(x = estimated_probability, a = parameter)
 
 ## Base attributes
 
