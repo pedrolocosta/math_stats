@@ -92,9 +92,9 @@ class Mean_ci():
             print('sample size - tamanho da amostral = {}'.format(self.ss))
             print('trust level - nível de confiança = {}'.format(self.tl))
             print('population standard deviation - desvio padrão populacional = {}'.format(self.psd))
-            print("corresponding 'z' - 'z' correspondente = {}".format(self.z_eq))
+            print(('critical value (z(a/2)) - valor crítico (z(a/2)) = {}'.format(self.z_eq))
             print('margin of error for population standard deviation know - margem de erro para desv. padrão conhecido = {:.4f}'.format(self.stdkme))
-            print('interval estimate for the sample mean - stimativa intervalar para a média amostral = {}'.format(self.stdkie))
+            print('interval estimate for the sample mean - estimativa intervalar para a média amostral = {}'.format(self.stdkie))
         else:
             print('sample mean - média amostral = {}'.format(self.sm))
             print('sample size - tamanho da amostral = {}'.format(self.ss))
