@@ -1,8 +1,2 @@
 exponential_distribution/temp
-statistical_inference/temp
-statistical_inference/*.ipynb
-statistical_inference/*.ipynb_checkpoints
-statistical_inference/version_1.0/*.ipynb
-statistical_inference/version_1.0/*.ipynb_checkpoints
-*.ipynb
-*.ipynb_checkpoints
+statical_inference/proportion_confidence_interval/previos_version/ .
