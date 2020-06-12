@@ -1,4 +1,4 @@
-# Size_sample
+# Size_mean
 
 ## Definiticon
 Estimation of statistical parameters is the process of using sample data to estimate the values of unknown population parameters. Essentially, any
@@ -7,7 +7,7 @@ Among the most common estimators are the sample mean, the sample standard deviat
 
 ## if population standard deviation is known:
 ### Object Instatiation
-object_name = Size_sample(tl = trust_level,
+object_name = Size_mean(tl = trust_level,
 						 me = margin of error,
 						 ss = sample_size,
 						 psd = population_standard_deviation,
@@ -27,11 +27,11 @@ Returns the summary of everything
 
 ## if population standard deviation is not known:
 ### Object Instatiation
-object_name = Size_sample(tl = trust_level,
+object_name = Size_mean(tl = trust_level,
 						 me = margin of error,
 						 ss = sample_size,
 						 psd = population_standard_deviation,
-						 ps = polulation size = 0)
+						 ps = polulation_size = 0)
 
 #### Base attributes
 
